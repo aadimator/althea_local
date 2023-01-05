@@ -1,0 +1,3 @@
+[submodule "althea_rs"]
+	path = althea_rs
+	url = git@github.com:althea-net/althea_rs.git

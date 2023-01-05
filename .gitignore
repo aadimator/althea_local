@@ -1,0 +1,12 @@
+*.env
+.DS_Store
+*.bak
+/target/
+/rls/
+target-mac
+**/*.rs.bk
+.idea
+**/*.db
+test.db-journal
+*.log
+rita.tar.gz
