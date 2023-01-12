@@ -10,3 +10,4 @@ target-mac
 test.db-journal
 *.log
 rita.tar.gz
+dump
